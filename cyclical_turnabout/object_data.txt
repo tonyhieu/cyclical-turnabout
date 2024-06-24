@@ -411,14 +411,14 @@ Sound p_obj {
 
 Place card back {
     name: card back
-    path: https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/9ofdiamonds.PNG?raw=true
+    path: https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/cardback.PNG?raw=true
 }
 
 Place nod {
     name: nine of diamonds
     path: https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/9ofdiamonds.PNG?raw=true
 }
-
+https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/9ofdiamonds.PNG
 
 // MUSIC
 
