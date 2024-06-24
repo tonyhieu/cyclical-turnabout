@@ -1,0 +1,479 @@
+// PROFILES
+
+Profile LucyMorgan {
+    hidden: true
+    long: Lucy Morgan
+    short: Lucy
+    voice: female
+    icon: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/1%20-%20ruWuJ2w%20-%20Cherisa%20Mango.png?raw=true
+
+    metadata: Age: 34
+            : Gender: Female
+    description: Me. Not much to say about myself... Just another attorney trying to make it.
+    prefix: lm
+}
+
+
+LucyMorgan sprite {
+    name: normal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/2%20-%20yAoliIo.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/3%20-%20kAZjIYw.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: n
+}
+
+LucyMorgan sprite {
+    name: upset
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/4%20-%20uNlEZzQ.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/5%20-%20akBp7Mj.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: u
+}
+
+LucyMorgan sprite {
+    name: glasses
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/7%20-%20s5hSezj.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/8%20-%20xZxZHH6.gif?raw=true
+    startup: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Lucy%20Morgan/6%20-%20zvGOgSl.gif?raw=true
+    duration: 50
+    suffix: g
+}
+
+Profile NatalieReed {
+    hidden: true
+    long: Natalie Reed
+    short: Natalie
+    voice: female
+    icon: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/1%20-%20BcJTxKq.gif?raw=true
+
+    metadata: Age: 31
+            : Gender: Female
+    description: My partner. She works as the detective for our agency.
+    prefix: nr
+}
+
+NatalieReed sprite {
+    name: upset
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/12%20-%20TqtIeCr.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/13%20-%20sREtMQv.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: u
+}
+
+NatalieReed sprite {
+    name: point
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/14%20-%20W8tFeGY.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/15%20-%20NYjX20N.gif?raw=true
+    startup: 
+    duration: 0 
+    suffix: p
+}
+
+NatalieReed sprite {
+    name: dejected
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/16%20-%208e8S1iD.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/17%20-%20Q9u8mPQ.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: dj
+}
+
+NatalieReed sprite {
+    name: normal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/2%20-%203qU4fD5%20-%20Front%20sprites..gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/3%20-%20UANxwUc.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: n
+}
+
+NatalieReed sprite {
+    name: serious
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/4%20-%20PVMZckM.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/5%20-%20glLyJBC.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: se
+}
+
+NatalieReed sprite {
+    name: shrug
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/8%20-%20wGwDKFD.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/9%20-%209RzBirJ.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: sr
+}
+
+NatalieReed sprite {
+    name: happy
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/31%20-%20Y3Q3Vv0.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/32%20-%20rMbzydU.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: h
+}
+
+NatalieReed sprite {
+    name: sidenormal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/22%20-%20pttcOie%20-%20Aide%20sprites..gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/23%20-%20FLPcLtU.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: sn
+}
+
+NatalieReed sprite {
+    name: sideupset
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/24%20-%20D35n5jT.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/25%20-%20mUgYfwq.gif?raw=true
+    startup: 
+    duration: 0 
+    suffix: su
+}
+
+NatalieReed sprite {
+    name: sidethinkingclosed
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/26%20-%202ey9aJi.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/27%20-%20ZU8yHbi.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: stc
+}
+
+NatalieReed sprite {
+    name: sidethinkingopen
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/29%20-%20dEqIKTj.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Natalie%20Reed/28%20-%20XtmN5fj.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: sto
+}
+
+
+
+Profile BenjaminLi {
+    hidden: true
+    long: Benjamin Li
+    short: Benjamin
+    voice: male
+    icon: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/1%20-%20N0x4dhO.png?raw=true
+
+    metadata: Age: 35
+            : Gender: Male
+    description: The prosecutor of this case. Seems very serious.
+    prefix: bl
+}
+
+BenjaminLi sprite {
+    name: normal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/2%20-%20yui4cMu.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/3%20-%204UNFOYc.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: n
+}
+
+BenjaminLi sprite {
+    name: serious
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/4%20-%200EdI6ux.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/5%20-%20fMVumvu.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: s
+}
+
+BenjaminLi sprite {
+    name: thinking
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/6%20-%20pZXE20T.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/7%20-%20NiupS6p.gif?raw=true
+    startup:  
+    duration: 0
+    suffix: t
+}
+
+BenjaminLi sprite {
+    name: closedeyes
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/8%20-%207RyFhD0.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/9%20-%20UgwD6xA.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: ce
+}
+
+BenjaminLi sprite {
+    name: areyouserious
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/10%20-%20kaosarO.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/11%20-%20HDOepQl.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: ays
+}
+
+BenjaminLi sprite {
+    name: point
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/13%20-%20nECoP8C.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/14%20-%20NM0lqZd.gif?raw=true
+    startup: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/12%20-%20Hk8p1KD.gif?raw=true
+    duration: 50
+    suffix: p
+}
+
+BenjaminLi sprite {
+    name: forwardnormal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/17%20-%20xgtxo1r.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/16%20-%20HJVxSlw.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: fn
+}
+
+BenjaminLi sprite {
+    name: forwardcard
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/18%20-%20j5IxOwH.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Benjamin%20Li/19%20-%203wp3QhE.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: fc
+}
+
+
+Profile LeoAnderson {
+    hidden: true
+    long: Leo Anderson
+    short: Leo
+    voice: male
+    icon: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/1%20-%20HezkbZI.png?raw=true
+
+    metadata: Age: 28
+            : Gender: Male
+    description: Our defendant. According to Natalie, he's a wealthy, new money businessman.
+    prefix: la
+}
+
+LeoAnderson sprite {
+    name: eyesdarting
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/2%20-%20n2yjYNs.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/3%20-%20j01hmOU.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: ed
+}
+
+LeoAnderson sprite {
+    name: normal
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/4%20-%2091NJKpz.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/5%20-%20ZLgAmzy.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: n
+}
+
+LeoAnderson sprite {
+    name: angry 
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/6%20-%20IlLlKab.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/7%20-%20KUPh6Fm.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: a
+}
+
+LeoAnderson sprite {
+    name: smile
+    still: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/8%20-%20uLmjMg6.gif?raw=true
+    talk: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Leo%20Anderson/9%20-%207kn9XY8.gif?raw=true
+    startup: 
+    duration: 0
+    suffix: s
+}
+
+
+Profile LiJieSun {
+    hidden: true
+    long: Li Jie Sun
+    short: Li Jie
+    voice: male
+    icon: https://github.com/tonyhieu/cyclical-turnabout/blob/main/Li%20Jie%20Sun/1%20-%20mt3CKsu.png?raw=true
+
+    metadata: Age: 67
+            : Gender: Male
+    description: The victim in this case. According to Natalie, he was a Buddhist monk for much of his life and had no known enemies.
+    prefix: ls
+}
+
+
+
+
+
+// POPUPS
+
+Popup obj {
+    base: objection
+}
+
+Popup holdit {
+    base: hold it
+}
+
+Popup tt {
+    base: take that
+}
+
+Popup {
+    base: guilty
+}
+
+Popup {
+    base: not guilty
+}
+
+Popup wt {
+    base: testimony
+}
+
+Popup ce {
+    base: cross
+}
+
+
+
+// SOUNDS
+
+Sound gallery {
+    base: gallery speaking
+}
+
+Sound gavel {
+    base: gavel
+}
+
+Sound ne {
+    base: new evidence
+}
+
+Sound fb {
+    base: flashback
+}
+
+Sound anger {
+    base: anger
+}
+
+Sound huh {
+    base: huh
+}
+
+Sound idea {
+    base: idea
+}
+
+Sound oh no {
+    base: oh no
+}
+
+Sound owned {
+    base: owned
+}
+
+Sound shock {
+    base: shocked
+}
+
+Sound shout {
+    base: shouting
+}
+
+Sound whoops {
+    base: whoops
+}
+
+Sound d_obj {
+    base: mia objection
+}
+
+Sound d_hi {
+    base: mia hold it
+}
+
+Sound d_tt {
+    base: mia take that
+}
+
+Sound p_obj {
+    base: phoenix take that
+}
+
+
+// PLACES
+
+Place card back {
+    name: card back
+    path: https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/9ofdiamonds.PNG?raw=true
+}
+
+Place nod {
+    name: nine of diamonds
+    path: https://github.com/tonyhieu/cyclical-turnabout/blob/main/other%20assets/9ofdiamonds.PNG?raw=true
+}
+
+
+// MUSIC
+
+Music ze - clarification {
+    name: ze - clarification
+    path: https://github.com/tonyhieu/music/raw/main/Virtues_Last_Reward_OST__2-11_Clarification%20(1).mp3
+    volume: 100
+}
+
+Music dr pretrial {
+    name: dr pretrial
+    path: https://raw.githubusercontent.com/tonyhieu/music/main/%E9%96%8B%E5%BB%B7%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89.mp3
+    volume: 100
+}
+
+Music hakuchu no dead alert {
+    name: hakuchu no dead alert
+    path: https://raw.githubusercontent.com/tonyhieu/music/main/%E7%99%BD%E6%98%BC%E3%81%AE%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88%20(Hakuchuu%20no%20Dead%20Alert).mp3
+    volume: 90
+}
+
+Music childrens time {
+    name: childrens time
+    path: https://raw.githubusercontent.com/tonyhieu/music/main/Children's%20time.mp3
+    volume: 90
+}
+
+Music pvz final boss {
+    name: pvz final boss
+    path: https://github.com/tonyhieu/music/raw/main/Brainiac%20Maniac%20%5BDr.%20Zomboss%20Theme%5D%20(Plants%20vs%20Zombies)%20-%20GaMetal%20Remix.mp3
+    volume: 90
+}
+
+Music drv3 argument {
+    name: drv3 argument
+    path: https://github.com/tonyhieu/music/raw/main/New%20Danganronpa%20V3%20Mini%20OST%20-%2005.%20V3%20Discussion%20-BREAK-.mp3
+    volume: 90
+}
+
+Music dating start {
+    name: dating start
+    path: https://github.com/tonyhieu/music/raw/main/Undertale%20OST_%20025%20-%20Dating%20Start!.mp3
+    volume: 90
+}
+
+Music wind ambience {
+    name: wind ambience
+    path: https://github.com/tonyhieu/music/raw/main/Wind%20Ambient%20Noise.mp3
+    volume: 100
+}
+
+/*
+Music {
+    name:
+    path:
+    volume:
+}
+*/

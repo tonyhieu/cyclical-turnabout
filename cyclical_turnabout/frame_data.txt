@@ -1,0 +1,121 @@
+to_black
+music, wind ambience
+blip, m
+speakerName
+null:
+When I was a kid, I used to think a lot about death.
+
+null:
+It wasn't like I was sick or anything. It just interested me.
+
+null:
+I have one vivid memory about death.
+
+null:
+My family was on a vacation with our grandparents, and I was sharing a room with my grandma.
+
+null:
+In the middle of the night, I woke up to her crying.
+
+null:
+I asked her, "What's wrong?"
+
+null:
+Through sobs, she said, "I don't want to die."
+
+null:
+"I want to watch you grow up. I want to spend time with you."
+
+null:
+I tried to console her. I told her, "We can both go into the afterlife and spend the rest of time there."
+
+null:
+I didn't really know what I was saying, but she calmed down a bit after that.
+
+null:
+I've thought about that night a lot for the past twenty years.
+
+null:
+Is it really that sad to leave this world behind?
+
+null:
+Before my grandma passed away, I talked about that night with her.
+
+null:
+She was weak and bedridden, but she still smiled hearing me describe it back to her.
+
+null:
+She said, "It's okay. I know you'll keep your promise."
+
+null:
+A part of me thought that I should rewind to etch my grandma's face into my memory.
+
+null:
+A stronger part of me left the hospital and drove home in silence.
+
+null:
+That same part of me didn't cry at her funeral. Or any other funeral I've been at.
+
+null:
+I suppose it was just fate.
+
+null:
+Fate. What a funny idea.
+
+place, card back
+fade, in, black, 1000, all
+wait, 1000
+
+null:
+What card do you think this is?
+
+null:
+There are fifty-two possibilities. You have less than a 2% chance to guess correctly.
+
+null:
+But is that really true?
+
+null:
+There is only one card. There is only one outcome.
+
+null:
+You can rewind too, right? Why don't you check the card and see if I'm right?
+
+null:
+Because I know you know...
+
+place, nod
+sound, fb
+null:
+[#fb]
+
+null:
+...it was a nine of diamonds all along.
+
+null:
+Rewind as many times as you want. It will always be the nine of diamonds.
+
+null:
+Life is the same way.
+
+null:
+Your fate is determined from the start. It is ineffable, unchanging.
+
+null:
+You have no control. All you can do is watch and see.
+
+null:
+There is a chance I'm wrong, though.
+
+null:
+Maybe we can change our destinies. Maybe our outcomes are not set in stone.
+
+null:
+The onus to prove that on you, my friend.
+
+null:
+The stage is set. Our destinies have intertwined.
+
+to_black
+null:
+Shall we dance?

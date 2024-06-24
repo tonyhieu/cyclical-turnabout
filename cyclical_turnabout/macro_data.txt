@@ -1,0 +1,13 @@
+set_court {
+    place, aj bench
+    set_sprite, lm, n
+    mirror
+    cPos, left
+    set_sprite, bl, n
+    cPos, right
+}
+
+to_black {
+    music
+    place
+}
