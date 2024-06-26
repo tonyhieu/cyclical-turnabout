@@ -119,7 +119,484 @@ The stage is set. Our destinies have intertwined.
 
 to_black
 blip, n
-wait, 2000
-speed, 0.1
+wait, 6000
+speed, 0.4
+fade, out, black, 6000, all
 null:
 Shall we dance?
+
+color, lime
+blip, t
+speed, 0.25:
+August 14, 1:52 PM
+District Court
+
+music, city ambience
+unknown_female
+null:
+*huff* *huff*
+
+color, 6BC7F6
+unknown_female
+null:
+(God, I hope I make it in time...)
+
+color, 6BC7F6
+unknown_female
+null:
+(I did not realize how far apart these two courthouses are.)
+
+color, 6BC7F6
+sound, shout
+unknown_female
+null:
+[#sb](They're on the same street, for crying out loud! How long could a street be!?)
+
+color, 6BC7F6
+unknown_female
+null:
+(At least I'm almost there. Nat's probably gonna wonder where the hell I've been...)
+
+unknown_female
+null:
+*huff* *huff*
+
+color, 6BC7F6
+unknown_female
+null:
+(Finally. Made it.)
+
+music
+sound, door open
+fade, out, white, 2000, all
+wait, 2000
+
+place, aj lobby
+set_sprite, nr, u
+fade, in, white, 2000, all
+wait, 2000
+
+music, court lobby
+nr.u
+revEv
+NatalieReed
+LucyMorgan:
+Well? Care to explain yourself?
+
+sound, owned
+lm:
+[#sb]It's not my fault! I didn't know how long it'd take to walk here!
+
+nr.u:
+You didn't think to get a taxi? Or to, you know, leave early?
+
+nr:
+You didn't even try rewinding?
+
+lm:
+Well...
+
+lm:
+You know how trials go. Sometimes, they end up running late.
+
+lm:
+Plus, I already used some of my rewinds for the last trial.
+
+sound, anger
+lm:
+[#sb]I need to save some for this trial, too!
+
+nr.se
+sync, n:
+*sigh*
+
+nr.sr:
+I suppose it can't be helped...
+
+nr:
+I didn't have that much on my plate today anyways, so it's fine.
+
+lm:
+Sorry, Nat...
+
+nr.se:
+Forget about it. I'm over it now.
+
+sound, idea
+nr.n:
+[#fb]So, want the scoop?
+
+lm:
+Yes, please. I want to get my mind off of that stupid case.
+
+lm:
+They always say civil trials are the easiest, but I don't know.
+
+sound, whoops
+lm:
+Some of our clients just don't know when to shut up, haha...
+
+nr:
+You won, though, right?
+
+sound, anger
+lm:
+[#sb]Yes, but at what cost!?
+
+sound, shout
+lm:
+[#sb]Three rewinds and two-and-a-half hours isn't exactly nothing, you know!
+
+nr.se:
+Jeez, three rewinds already? 
+
+nr:
+You're going to be dead tired tonight.
+
+lm:
+Yeah, you said it.
+
+lm:
+Please tell me that this case is going to be easy after the day I've already had.
+
+sound, huh
+nr:
+[#fb]Wait, you don't remember what this case is?
+
+lm:
+Uh...
+
+lm:
+No?
+
+speed, 0.2
+nr.u
+sync, n:
+...
+
+sound, shout
+nr.p:
+[#fb][#sb]ARE YOU KIDDING ME, LUCY!?
+
+sound, anger
+nr:
+[#sb]We've been talking about this case for weeks!
+
+nr:
+This was going to be the one that put us on the map! The most important case of our lives!
+
+nr:
+Do you seriously not remember!?
+
+sound, owned
+wait, 1000
+lm:
+[#sb]I'm sorry! I forgot, it's been such a busy week, and-
+
+sound, shout
+nr:
+[#sb]Sorry doesn't cut it! This is ridiculous!
+
+nr.u:
+God, Lucy, I can't believe you forgot.
+
+sound, anger
+nr:
+[#sb]We spent all that time talking about it, and you're not even prepared.
+
+nr:
+God, I...
+
+nr.dj
+sync, n:
+*sigh*
+
+nr:
+I'm disappointed.
+
+nr:
+I know you're busy and everything, but still...
+
+nr:
+You really need to be more focused.
+
+color, 6BC7F6
+lm
+varDef
+apology_accepted, 0:
+(God, I messed up...)
+
+
+
+sceIntro
+color, 6BC7F6
+lm
+hideIntro, Lobby:
+(I should apologize.)
+
+sceMain, Lobby
+place, aj lobby
+set_sprite, nr, dj
+
+sceTalk
+sceTalkConvo, Apology, , apology
+lm:
+Look, Nat...
+
+nr
+varDef
+apology_accepted, 1:
+What? What is there to look at?
+
+nr:
+You forgot. Plain and simple.
+
+nr:
+There's nothing else to say.
+
+lm:
+Nat...
+
+nr:
+I know you're busy, Lucy.
+
+nr:
+You're taking on, what, ten cases a week?
+
+nr:
+It's impossible to keep all of that in your head. I get that.
+
+nr:
+I guess I don't know why I thought this time would be different.
+
+nr:
+It was all we talked about for so long. I...
+
+color, 6BC7F6
+lm:
+(Did I seriously forget something this important?)
+
+color, 6BC7F6
+lm:
+(Ugh, I need to make this up with her with a dinner or something...)
+
+lm:
+Nat, I'm sorry. I really am.
+
+lm:
+I didn't mean to hurt your feelings. I've just been busy.
+
+lm:
+It's something I'm trying to improve at. 
+
+lm:
+I care about you, Nat. I couldn't ask for someone better to build this firm with.
+
+lm:
+Seriously, I... I'm sorry.
+
+lm:
+Please, forgive me. It slipped my mind.
+
+nr
+sync, n:
+...
+
+nr:
+Do you mean it?
+
+sound, huh
+lm:
+[#fb]Do I mean what?
+
+nr:
+You wouldn't want to work with anyone else?
+
+lm:
+Yeah. Pretty much.
+
+nr
+sync, n:
+*sniff*
+
+nr:
+Okay. I forgive you.
+
+nr:
+Sorry for getting emotional, it's just...
+
+nr:
+I guess I've been stressed out, too. This case has been so hard to investigate.
+
+lm:
+It's okay. We're here now.
+
+lm:
+Are you ready to tell me about it?
+
+sound, idea
+nr.se
+hideTalk, apology:
+[#fb]Yeah. I am.
+
+
+sceTalkConvo, Type of case, hide, type
+lm:
+What type of case is this?
+
+nr.se:
+Murder case.
+
+sound, waaah
+lm:
+[#sb]What!? We have a murder case?
+
+nr:
+That's why I was so surprised when you said you forgot.
+
+nr:
+I mean, how many murder cases have you taken? 
+
+sound, whoops
+lm:
+I haven't taken a single one...
+
+nr:
+Ah, right, I think we were talking about that...
+
+nr.sr:
+I'm sure you'll be fine. You're more than smart enough.
+
+sound, anger
+lm:
+[#sb]I don't think that's the issue here!
+
+sound, idea
+nr.n:
+[#fb]Shouldn't have taken so many cases then.
+
+lm:
+Erk...
+
+lm:
+Just give me the details.
+
+
+
+sceTalkConvo, About the case, hide, about
+nr.se
+dispEv
+LiJieSun, tr:
+On July 27, Li Jie Sun was found dead at the Yun Tal Temple.
+
+nr
+dispEv
+LeoAnderson, tr:
+No one directly witnessed the crime, but police arrested our client, Leo Anderson.
+
+lm:
+How did they make an arrest without any witnesses?
+
+nr.n:
+I didn't say there were no witnesses. I said there were no direct witnesses.
+
+nr:
+
+/*
+sceTalk
+sceTalkConvo, Apology, , apology
+*/
+
+
+scePres
+color, 6BC7F6
+lm:
+(I don't think there's anything else I need to know about this.)
+
+scePresConvo, LucyMorgan
+nr.n
+dispEv
+LucyMorgan, tr:
+Work got you so busy you forgot who you were?
+
+sound, whoops
+lm:
+Uh...
+
+nr.h:
+What, do you just want me to list off your accomplishments or something?
+
+nr:
+So arrogant...
+
+sound, waaah
+lm:
+[#sb]H-hey! Come on, you don't need to do all that!
+
+sound, huh
+nr:
+[#fb]What? Don't want people to know that you finished law school at 25?
+
+nr:
+Or is it the fact that you were billing $300 an hour at 28?
+
+sound, idea
+nr:
+[#fb]Or maybe, just maybe, it has to do with the fact you've had your own firm for three years...?
+
+sound, owned
+lm:
+[#sb]I get it, I get it!
+
+lm:
+Sorry for asking...
+
+
+scePresConvo, NatalieReed
+nr.u
+sync, n
+dispEv
+NatalieReed, tr:
+...
+
+nr:
+You don't remember who I am?
+
+merge
+nr:
+Lucy, we've known each other for the last...
+
+sound, anger
+nr:
+[#sb] I can't even count!
+
+sound, waaah
+lm:
+[#sb]Sorry! I misclicked!
+
+sound, huh
+nr:
+[#fb]Misclicked?
+
+nr.se:
+You must really be tired...
+
+nr:
+You don't even use a computer that often. How do you come up with misclicked?
+
+color, 6BC7F6
+lm:
+(Ugh... Too many rewinds.)
+
+
+
+sceExam, aj lobby
+color, 6BC7F6
+lm:
+(The courtroom is just beyond those doors.)
+
+color, 6BC7F6
+lm:
+(I still get chills every time I walk through here...)
+
+sceMove, Lobby, Lobby

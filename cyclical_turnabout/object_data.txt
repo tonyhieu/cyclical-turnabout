@@ -390,6 +390,10 @@ Sound whoops {
     base: whoops
 }
 
+Sound waaah {
+    base: waaah
+}
+
 Sound d_obj {
     base: mia objection
 }
@@ -404,6 +408,10 @@ Sound d_tt {
 
 Sound p_obj {
     base: phoenix take that
+}
+
+Sound door open {
+    base: door opening
 }
 
 
@@ -464,9 +472,19 @@ Music dating start {
     volume: 90
 }
 
+Music court lobby {
+    base: jfa3
+}
+
 Music wind ambience {
     name: wind ambience
     path: https://github.com/tonyhieu/music/raw/main/Wind%20Ambient%20Noise.mp3
+    volume: 100
+}
+
+Music city ambience {
+    name: city ambience
+    path: https://github.com/tonyhieu/music/raw/main/Urban%20Ambient%20Noise.mp3
     volume: 100
 }
 

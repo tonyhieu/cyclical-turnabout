@@ -11,3 +11,8 @@ to_black {
     music
     place
 }
+
+unknown_female {
+    blip, f
+    speakerName, ???
+}
